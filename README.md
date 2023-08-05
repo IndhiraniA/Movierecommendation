@@ -1,2 +1,2 @@
-music recommendation system
+movie recommendation system
 
